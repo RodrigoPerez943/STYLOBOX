@@ -3,6 +3,7 @@
 ## Authors
 
 * **Rodrigo Pérez del Pulgar**
+* **David Hernandez Solar**
 
 ## Abstract
 
