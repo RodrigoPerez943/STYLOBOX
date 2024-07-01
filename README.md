@@ -2,8 +2,7 @@
 
 ## Authors
 
-* **Rodrigo Pérez del Pulgar Almodóvar** - email: [rodrigo.palmodovar@alumnos.upm.es](mailto:rodrigo.palmodovar@alumnos.upm.es)
-* **David Hernández Sola** - email: [david.hsola@alumnos.upm.es](mailto:david.hsola@alumnos.upm.es)
+* **Rodrigo Pérez del Pulgar**
 
 ## Abstract
 
