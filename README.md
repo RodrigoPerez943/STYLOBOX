@@ -1,6 +1,6 @@
-# STYLO-BOX
+![STYLOBOX Logo](assets/STYLOBOX.png)
 
-## Authors
+## Author
 
 * **Rodrigo Pérez del Pulgar**
 
